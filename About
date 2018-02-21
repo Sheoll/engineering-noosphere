@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+<title>How to Play</title>
+<meta charset='utf-8'/>
+<meta content='IE=Edge,chrome=1' http-equiv='X-UA-Compatible'>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<link rel="stylesheet" media="all" href="../RemoveBlocks/bootstrap.css" />
+
+</head>
+<body>
+<h1>Правила игры</h1>
+
+<ul>
+<li><p> <span style="color:magenta;">Розовый</span> кубик - 1 очко.</p></li>
+<li><p><span style="color:yellow;">Жёлтый</span> кубик - 2 очка.</p></li>
+<li><p><span style="color:green;">Зелёный</span> кубик - 4 очка.</p></li>
+<li><p><span style="color:blue;">Синий</span> кубик - 8 очков.</p></li>
+<li><p><span style="color:red;">Красный</span> кубик - 16 очков.</p></li>
+</ul>
+</form>
+
+</body>
+</html>
